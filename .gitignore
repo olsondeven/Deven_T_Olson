@@ -1,2 +1,5 @@
 node_modules
-config
+config.js
+mailCtrl.js
+index.js
+package.json
