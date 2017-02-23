@@ -555,9 +555,6 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img/map-image.png');
-  background-position: center;
-  background-repeat: no-repeat;
 }
 section#contact .section-heading {
   color: white;
@@ -607,6 +604,12 @@ section#contact :-ms-input-placeholder {
 }
 section#contact .text-danger {
   color: #e74c3c;
+}
+#contact{
+  background-image: url('./img/space-contact.jpg');
+  background-size:contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 footer {
   padding: 25px 0;
